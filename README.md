@@ -1,6 +1,7 @@
-<p align="center"><img src=>
+<p align="center"><img src=https://github.com/JessiBun/JessiBun/blob/main/github-header-image.png>
 <p align="center">I'm currently a student pursuing my Associates in Computer Programming here in Orlando,FL while <br>  
   working full time doing something completely different at a financial company and trying to find time to do personal projects! 
+  <br>When I'm not busy learning or working, I love playing video games like Terraria, watching horror movies:smiling_imp: or going to concerts🤘! I also love cooking🥣, baking🍞 and gardening🍅
 </p>
 <hr>
 <p align="center"><strong>Check out my </strong> <a href=https://www.linkedin.com/in/jessica-styrcula><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white height=23></a>
