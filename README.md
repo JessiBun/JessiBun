@@ -13,4 +13,5 @@
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
 <br><h4 align="center">Learning Platforms</h4>
 <p align="center"><a href=https://www.codewars.com/users/JessiBun><img src=https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey /></a>
+<a href=https://leetcode.com/JessiBun/><img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 /></a>
 <img src=https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white /></p>
